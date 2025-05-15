@@ -37,11 +37,9 @@ Writing Class Diagram: https://app.diagrams.net/?src=about#G1EPin6sUWjUCI_xSKwij
 How to Run the Program
 1. Clone the Repository: Download or clone this repository to your local machine.
 2. Compile the Code: Open a terminal or command prompt, navigate to the project directory, and compile the code:
-
  javac *.java
 3. Run the Game: Once compiled, run the game by executing the App class:
-
- java App
+java App
 
 Gameplay:
 Enter your player's name when prompted.
